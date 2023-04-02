@@ -1,0 +1,13 @@
+{
+  "context": {
+    "title": "현대IHL 실험실(C/R) 신규 설치공사",
+    "cover": "articles/factory-003.jpg",
+    "high": "articles/factory-high-003.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2019.04 ~ 2019.11",
+    "client": "현대IHL",
+    "scale": "건축면적 : 2,200㎡ (666PY)",
+    "info": "설계.건축.골조"
+  },
+  "content": "\n\n1. 공 사 명: title\n1. 발 주 처:\tclient \n1. 공사기간:\tfinished\n1. 공사규모:\tscale\n1. 공사내용: info\n"
+}

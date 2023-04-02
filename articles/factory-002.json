@@ -1,0 +1,13 @@
+{
+  "context": {
+    "title": "한국도로공사 본사 확장공사",
+    "cover": "articles/factory-002.jpg",
+    "high": "articles/factory-high-002.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2020.02 ~ 2020.07",
+    "client": "한국도로공사",
+    "scale": "건축면적 : 2,670㎡ (809PY)",
+    "info": "건축 골조, 창호"
+  },
+  "content": "\n\n1. 공 사 명: title\n1. 발 주 처:\tclient \n1. 공사기간:\tfinished\n1. 공사규모:\tscale\n1. 공사내용: info\n"
+}

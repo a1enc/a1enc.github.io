@@ -1,0 +1,23 @@
+[
+  {
+    "title": "도레이 BSF 증축공사",
+    "cover": "articles/factory-001.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2017년 ~ 2018년",
+    "filename": "factory-001.json"
+  },
+  {
+    "title": "한국도로공사 본사 확장공사",
+    "cover": "articles/factory-002.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2020.02 ~ 2020.07",
+    "filename": "factory-002.json"
+  },
+  {
+    "title": "현대IHL 실험실(C/R) 신규 설치공사",
+    "cover": "articles/factory-003.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2019.04 ~ 2019.11",
+    "filename": "factory-003.json"
+  }
+]

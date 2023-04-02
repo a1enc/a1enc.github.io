@@ -1,0 +1,23 @@
+[
+  {
+    "title": "LG이노텍 본관동 리모델링 공사",
+    "cover": "articles/renovating-001.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2020.07 ~ 2020.10",
+    "filename": "renovating-001.json"
+  },
+  {
+    "title": "LG이노텍 기숙사(성원 129세대, 사내 46세대) 리모델링 공사",
+    "cover": "articles/renovating-002.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2021년",
+    "filename": "renovating-002.json"
+  },
+  {
+    "title": "LG유니참 생산동 리모델링 공사",
+    "cover": "articles/renovating-003.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2020.06 ~ 2020.11",
+    "filename": "renovating-003.json"
+  }
+]

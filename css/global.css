@@ -168,7 +168,7 @@ input::placeholder, textarea::placeholder {
   text-align: center;
 }
 
-#preloader .loader {
+.loader {
   display: table-cell;
   vertical-align: middle;
   height: 100%;
@@ -178,15 +178,15 @@ input::placeholder, textarea::placeholder {
   height: 200px;
 }
 
-#preloader .pulse-loader {
+.pulse-loader {
   width: 40px;
   height: 40px;
   position: relative;
   margin: 0px auto;
 }
 
-#preloader .double-bounce3,
-#preloader .double-bounce4 {
+.double-bounce3,
+.double-bounce4 {
   width: 100%;
   height: 100%;
   border-radius: 50%;
@@ -198,7 +198,7 @@ input::placeholder, textarea::placeholder {
   animation: sk-doubleBounce 2s infinite ease-in-out;
 }
 
-#preloader .double-bounce4 {
+.double-bounce4 {
   animation-delay: -1s;
 }
 

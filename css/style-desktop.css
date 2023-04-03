@@ -530,7 +530,7 @@
   background-color: #3e77ad;
   color: #fff;
   font-weight: 600;
-  text-align: left;
+  text-align: center;
 }
 .desktop .btn_wrap .download_btn:after {
   display: block;

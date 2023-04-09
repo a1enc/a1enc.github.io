@@ -705,6 +705,9 @@
   border-top: 1px solid #ddd;
   top: 0;
 }
+.desktop .lnb_wrap .lnb_inner {
+  height: 59px;
+}
 .lnb_wrap[data-fixed=fixed] .lnb_inner {
   position: fixed;
 }
@@ -728,6 +731,9 @@
   text-align: center;
   color: #666;
   border-bottom: 1px solid #ddd;
+}
+.desktop .lnb_wrap .lnb_area li > a {
+  line-height: 57px;
 }
 .lnb_wrap .lnb_area li.current > a {
   position: relative;

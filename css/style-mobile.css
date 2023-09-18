@@ -63,7 +63,7 @@
   top: 50%;
   transform: translate(0, -50%);
   width: 80px;
-  height: 29px;
+  height: 32px;
   background: url("../images/common/logo_on@2x.png") 0 0 no-repeat;
   background-size: cover;
 }

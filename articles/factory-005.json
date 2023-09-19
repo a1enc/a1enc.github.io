@@ -1,0 +1,12 @@
+{
+  "context": {
+    "title": "구미 1공장 환경동 증축 건축 공사",
+    "cover": "articles/factory-005.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2022.12.02. ~ 2023.02.25",
+    "client": "LG이노텍",
+    "scale": "건축면적 : 221m2(67PY)",
+    "info": "기초 바닥 공사, 외장 및 내장 Panel 시공"
+  },
+  "content": "\n\n1. 공 사 명: title\n1. 발 주 처:\tclient \n1. 공사기간:\tfinished\n1. 공사규모:\tscale\n1. 공사내용: info\n"
+}

@@ -19,5 +19,26 @@
     "date": "2023-03-25T16:40:00.000Z",
     "finished": "2019.04 ~ 2019.11",
     "filename": "factory-003.json"
+  },
+  {
+    "title": "구미 1A 공장 방재센터 증축 공사",
+    "cover": "articles/factory-004.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2022.09.01. ~ 2023.12.31",
+    "filename": "factory-004.json"
+  },
+  {
+    "title": "구미 1공장 환경동 증축 건축 공사",
+    "cover": "articles/factory-005.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2022.12.02. ~ 2023.02.25",
+    "filename": "factory-005.json"
+  },
+  {
+    "title": "SK실트론 3공장 UT동 신축 공사",
+    "cover": "articles/factory-006.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2023.01.20. ~ 2023.06.30",
+    "filename": "factory-006.json"
   }
 ]

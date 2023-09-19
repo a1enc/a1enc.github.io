@@ -1351,6 +1351,9 @@
   line-height: 1.25rem;
   color: #000;
 }
+.desktop .tab_list li a span {
+  font-size: 16px;
+}
 .tab_list li.on {
   position: relative;
 }

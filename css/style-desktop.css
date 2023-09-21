@@ -1202,6 +1202,42 @@
   background-size: 100%;
 }
 
+.modal-container.gallery .modal__header .slide__controls .counter {
+  position: absolute;
+  height: 40px;
+  bottom: 10px;
+  left: 50%;
+  transform :translateX(-50%);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+.modal-container.gallery .modal__header .slide__controls .counter::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+  filter: blur(20px) brightness(90%) opacity(70%);
+}
+
+.modal-container.gallery .modal__header .slide__controls .counter__num-current {
+  font-size: 20px;
+  padding-right: 4px;
+  text-align: center;
+}
+
+.modal-container.gallery .modal__header .slide__controls .counter__num-total {
+  font-size: 18px;
+  font-weight: 200;
+  padding-left: 4px;
+}
+
 .modal-container.gallery .modal__header img {
   width: 100%;
   max-height: 450px;

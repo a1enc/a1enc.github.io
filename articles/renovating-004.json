@@ -1,12 +1,23 @@
 {
   "context": {
     "title": "SK실트론 3공장 사무동 1층(좌측) 리모델링 공사",
-    "cover": "articles/renovating-004.jpg",
+    "cover": "articles/renovating-004/001.jpg",
     "date": "2023-03-25T16:40:00.000Z",
     "finished": "2023.02.27. ~ 2023.04.14",
     "client": "SK실트론",
     "scale": "건축면적 : 395m2(120PY)",
-    "info": "건축, 전기, 소방, 공조"
+    "info": "건축, 전기, 소방, 공조",
+    "workphotos": [
+      "articles/renovating-004/001.jpg",
+      "articles/renovating-004/002.jpg",
+      "articles/renovating-004/003.jpg",
+      "articles/renovating-004/004.jpg",
+      "articles/renovating-004/005.jpg",
+      "articles/renovating-004/006.jpg",
+      "articles/renovating-004/007.jpg",
+      "articles/renovating-004/008.jpg",
+      "articles/renovating-004/009.jpg"
+    ]
   },
   "content": "\n\n1. 공 사 명: title\n1. 발 주 처:\tclient \n1. 공사기간:\tfinished\n1. 공사규모:\tscale\n1. 공사내용: info\n"
 }

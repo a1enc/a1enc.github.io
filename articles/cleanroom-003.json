@@ -6,7 +6,10 @@
     "finished": "2017.08 ~ 2017.12",
     "client": "웅진에너지",
     "scale": "건축면적 : 2,450㎡ (750PY)",
-    "info": "C/R 건축"
+    "info": "C/R 건축",
+    "workphotos": [
+      "articles/cleanroom-003.jpg"
+    ]
   },
   "content": "\n\n1. 공 사 명: title\n1. 발 주 처:\tclient \n1. 공사기간:\tfinished\n1. 공사규모:\tscale\n1. 공사내용: info\n"
 }

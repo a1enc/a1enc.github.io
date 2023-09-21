@@ -6,7 +6,10 @@
     "finished": "2020 ~ 2021",
     "client": "LG이노텍",
     "scale": "건축면적 : 10,000㎡ (3,000PY)",
-    "info": "C/R건축"
+    "info": "C/R건축",
+    "workphotos": [
+      "articles/cleanroom-002.jpg"
+    ]
   },
   "content": "\n\n1. 공 사 명: title\n1. 발 주 처:\tclient \n1. 공사기간:\tfinished\n1. 공사규모:\tscale\n1. 공사내용: info\n"
 }

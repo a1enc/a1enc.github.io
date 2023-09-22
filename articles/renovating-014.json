@@ -1,0 +1,15 @@
+{
+  "context": {
+    "title": "노바엠 헬스케어 신축 (전 공정의 40%)",
+    "cover": "articles/renovating-014.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2023.02.27. ~ 2023.04.14",
+    "client": "노바엠 헬스케어",
+    "scale": "건축면적 : 395m2(120PY)",
+    "info": "건축 인테리어",
+    "workphotos": [
+      "articles/renovating-014.jpg"
+    ]
+  },
+  "content": "\n\n1. 공 사 명: title\n1. 발 주 처:\tclient \n1. 공사기간:\tfinished\n1. 공사규모:\tscale\n1. 공사내용: info\n"
+}

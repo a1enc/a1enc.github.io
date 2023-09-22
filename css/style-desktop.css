@@ -709,6 +709,79 @@
   font-weight: 400;
   color: #000;
 }
+.company.history .timeline_items {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.company.history .timeline_items .section-wrap {
+  padding: 10px;
+  width: 50%;
+  position: relative;
+}
+.mobile .company.history .timeline_items .section-wrap {
+  width: 100%;
+}
+.company.history .timeline_items::after {
+  content: '';
+  position: absolute;
+  width: 2px;
+  background-color: #004484;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: 0;
+}
+.mobile  .company.history .timeline_items::after {
+  display: none;
+}
+.company.history .timeline_items .section-inne {
+  border-radius: 20px;
+  padding: 15px;
+  background-color: #f9f9f9;
+  position: relative;
+}
+.company.history .timeline_items .section-inne h2 {
+  font-size: 45px;
+  color: #004484;
+}
+.company.history .timeline_items .section-inne p {
+  font-size: 18px;
+  line-height: 1.75rem;
+  color: #333;
+}
+.company.history .timeline_items .section-inne span {
+  color: #999;
+  font-weight: 600;
+}
+.company.history .timeline_items .section-wrap:nth-child(odd) {
+  left: 0;
+  text-align: right;
+}
+.company.history .timeline_items .section-wrap:nth-child(odd) .section-inne {
+  padding-right: 40px;
+}
+.company.history .timeline_items .section-wrap:nth-child(odd) .section-inne p {
+  padding: 15px 0 0 25px;
+}
+.mobile .company.history .timeline_items .section-wrap:nth-child(odd) .section-inne p {
+  padding-left: 0;
+}
+.company.history .timeline_items .section-wrap:nth-child(even) {
+  left: 50%;
+}
+.mobile  .company.history .timeline_items .section-wrap:nth-child(even) {
+  left: 0;
+}
+.company.history .timeline_items .section-wrap:nth-child(even) .section-inne {
+  padding-left: 40px;
+}
+.company.history .timeline_items .section-wrap:nth-child(even) .section-inne p {
+  padding: 15px 25px 0 0;
+}
+.mobile .company.history .timeline_items .section-wrap:nth-child(even) .section-inne p {
+  padding-right: 0;
+}
 .customer .cont_tit_wrap {
   border-bottom: 1px solid #c1c1c1;
   padding-bottom: 30px;
@@ -2299,7 +2372,7 @@ label.check.mt {
   margin-top: 54px;
 }
 .organization_wrap .inner img {
-  width: 50%;
+  width: 70%;
   margin-right: 228px;
 }
 .desktop .customer.report .organization_wrap h5 {

@@ -26,5 +26,47 @@
     "date": "2023-03-25T16:40:00.000Z",
     "finished": "2019년 ~ 2019년",
     "filename": "cleanroom-004.json"
+  },
+  {
+    "title": "LG이노텍 2공장 D동 C/R 확장공사 (건축)",
+    "cover": "articles/cleanroom-005.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2019년 ~ 2019년",
+    "filename": "cleanroom-005.json"
+  },
+  {
+    "title": "삼성SDI DF동 C/R 확장공사 (건축)",
+    "cover": "articles/cleanroom-006.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2019년 ~ 2019년",
+    "filename": "cleanroom-006.json"
+  },
+  {
+    "title": "LG이노텍 1공장 B동 C/R 확장공사 (건축)",
+    "cover": "articles/cleanroom-007.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2019년 ~ 2019년",
+    "filename": "cleanroom-007.json"
+  },
+  {
+    "title": "창원 LG전자 신축 (C/R건축)",
+    "cover": "articles/cleanroom-008.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2019년 ~ 2019년",
+    "filename": "cleanroom-008.json"
+  },
+  {
+    "title": "LG디스플레이 P6동 증축 (C/R 건축)",
+    "cover": "articles/cleanroom-009.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2019년 ~ 2019년",
+    "filename": "cleanroom-009.json"
+  },
+  {
+    "title": "삼성SDI 분리막 신축 (C/R 건축)",
+    "cover": "articles/cleanroom-010.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2019년 ~ 2019년",
+    "filename": "cleanroom-010.json"
   }
 ]

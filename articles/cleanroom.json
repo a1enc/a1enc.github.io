@@ -1,5 +1,40 @@
 [
   {
+    "title": "아주MCM 신축공사",
+    "cover": "articles/cleanroom-011.jpg",
+    "date": "2023-02-25T16:40:00.000Z",
+    "finished": "2018.01 ~ 2018.05",
+    "filename": "cleanroom-011.json"
+  },
+  {
+    "title": "(주)렉스진바이오텍 3공장",
+    "cover": "articles/cleanroom-012.jpg",
+    "date": "2023-02-25T16:40:00.000Z",
+    "finished": "2018.05 ~ 2019.05",
+    "filename": "cleanroom-012.json"
+  },
+  {
+    "title": "삼성SDI QD-PJT",
+    "cover": "articles/cleanroom-013.jpg",
+    "date": "2023-02-25T16:40:00.000Z",
+    "finished": 2018,
+    "filename": "cleanroom-013.json"
+  },
+  {
+    "title": "LG이노텍 P2동 리모델링 공사",
+    "cover": "articles/cleanroom-014.jpg",
+    "date": "2023-02-25T16:40:00.000Z",
+    "finished": 2018,
+    "filename": "cleanroom-014.json"
+  },
+  {
+    "title": "이노텍1A공장 방재센터 이전공사",
+    "cover": "articles/cleanroom-015.jpg",
+    "date": "2023-02-25T16:50:00.000Z",
+    "finished": "2022.09 ~ 2022.12",
+    "filename": "cleanroom-015.json"
+  },
+  {
     "title": "삼성SDI㈜ 분리막#3 증축 공사",
     "cover": "articles/cleanroom-001.jpg",
     "date": "2023-03-20T16:40:00.000Z",

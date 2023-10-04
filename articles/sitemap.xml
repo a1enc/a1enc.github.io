@@ -49,24 +49,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:3000/factory-001.json</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:3000/factory-002.json</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:3000/factory-003.json</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:3000/factory-004.json</loc>
     <lastmod>2023-03-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -139,12 +121,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:3000/renovating-005.json</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:3000/renovating-006.json</loc>
     <lastmod>2023-03-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -169,42 +145,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:3000/renovating-010.json</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:3000/renovating-011.json</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:3000/renovating-012.json</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:3000/renovating-013.json</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:3000/renovating-014.json</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:3000/renovating-015.json</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:3000/cleanroom-002.json</loc>
     <lastmod>2023-03-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -213,6 +153,36 @@
   <url>
     <loc>http://localhost:3000/cleanroom-001.json</loc>
     <lastmod>2023-03-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:3000/cleanroom-015.json</loc>
+    <lastmod>2023-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:3000/cleanroom-011.json</loc>
+    <lastmod>2023-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:3000/cleanroom-012.json</loc>
+    <lastmod>2023-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:3000/cleanroom-013.json</loc>
+    <lastmod>2023-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:3000/cleanroom-014.json</loc>
+    <lastmod>2023-02-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

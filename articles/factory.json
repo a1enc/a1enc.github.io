@@ -1,5 +1,26 @@
 [
   {
+    "title": "아주MCM 신축공사",
+    "cover": "articles/factory-001.jpg",
+    "date": "2023-02-25T16:40:00.000Z",
+    "finished": "2018.01 ~ 2018.05",
+    "filename": "factory-001.json"
+  },
+  {
+    "title": "LG이노텍 P2동 리모델링 공사",
+    "cover": "articles/factory-002.jpg",
+    "date": "2023-02-25T16:40:00.000Z",
+    "finished": 2018,
+    "filename": "factory-002.json"
+  },
+  {
+    "title": "LG이노텍1A공장 방재센터 이전공사",
+    "cover": "articles/factory-003.jpg",
+    "date": "2023-02-25T16:50:00.000Z",
+    "finished": "2022.09 ~ 2022.12",
+    "filename": "factory-003.json"
+  },
+  {
     "title": "구미 1A 공장 방재센터 증축 공사",
     "cover": "articles/factory-004/001.jpg",
     "date": "2023-03-25T16:40:00.000Z",
@@ -19,5 +40,12 @@
     "date": "2023-03-25T16:40:00.000Z",
     "finished": "2023.01.20. ~ 2023.06.30",
     "filename": "factory-006.json"
+  },
+  {
+    "title": "삼성SDI 분리막 신축 공사",
+    "cover": "articles/factory-007.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2019년 ~ 2019년",
+    "filename": "factory-007.json"
   }
 ]

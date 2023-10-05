@@ -1,12 +1,15 @@
 {
   "context": {
-    "title": "SK실트론 3공장 사무동 1층(좌측) 리모델링 공사",
+    "title": "삼성SDI 분리막 신축 공사",
     "cover": "articles/factory-007.jpg",
     "date": "2023-03-25T16:40:00.000Z",
-    "finished": "2023.02.27. ~ 2023.04.14",
-    "client": "SK실트론",
-    "scale": "건축면적 : 395m2(120PY)",
-    "info": "건축, 전기, 소방, 공조"
+    "finished": "2019년 ~ 2019년",
+    "client": "삼성SDI",
+    "scale": "건축면적 : 1,485㎡ (450PY) Class 10 & 100",
+    "info": "기초 바닥 공사, 외장 및 내장 Panel 시공",
+    "workphotos": [
+      "articles/factory-007.jpg"
+    ]
   },
   "content": "\n\n1. 공 사 명: title\n1. 발 주 처:\tclient \n1. 공사기간:\tfinished\n1. 공사규모:\tscale\n1. 공사내용: info\n"
 }

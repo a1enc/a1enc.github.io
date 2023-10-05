@@ -43,12 +43,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:3000/cleanroom-010.json</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:3000/factory-004.json</loc>
     <lastmod>2023-03-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -62,6 +56,12 @@
   </url>
   <url>
     <loc>http://localhost:3000/factory-006.json</loc>
+    <lastmod>2023-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:3000/factory-007.json</loc>
     <lastmod>2023-03-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -109,12 +109,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:3000/renovating-003.json</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:3000/renovating-004.json</loc>
     <lastmod>2023-03-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -157,13 +151,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:3000/cleanroom-015.json</loc>
-    <lastmod>2023-02-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:3000/cleanroom-011.json</loc>
+    <loc>http://localhost:3000/factory-003.json</loc>
     <lastmod>2023-02-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -181,7 +169,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:3000/cleanroom-014.json</loc>
+    <loc>http://localhost:3000/factory-001.json</loc>
+    <lastmod>2023-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:3000/factory-002.json</loc>
     <lastmod>2023-02-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

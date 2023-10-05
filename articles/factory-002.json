@@ -1,12 +1,12 @@
 {
   "context": {
-    "title": "한국도로공사 본사 확장공사",
+    "title": "LG이노텍 P2동 리모델링 공사",
     "cover": "articles/factory-002.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
-    "finished": "2020.02 ~ 2020.07",
-    "client": "한국도로공사",
-    "scale": "건축면적 : 2,670㎡ (809PY)",
-    "info": "건축 골조, 창호",
+    "date": "2023-02-25T16:40:00.000Z",
+    "finished": 2018,
+    "client": "엘지이노텍㈜",
+    "scale": "8,550 (2,591PY)",
+    "info": "C/R건축",
     "workphotos": [
       "articles/factory-002.jpg"
     ]

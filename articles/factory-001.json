@@ -1,12 +1,12 @@
 {
   "context": {
-    "title": "도레이 BSF 증축공사",
+    "title": "아주MCM 신축공사",
     "cover": "articles/factory-001.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
-    "finished": "2017년 ~ 2018년",
-    "client": "도레이 BSF",
-    "scale": "건축면적 : 2,500㎡ (760PY)",
-    "info": "골조 Panel 시공",
+    "date": "2023-02-25T16:40:00.000Z",
+    "finished": "2018.01 ~ 2018.05",
+    "client": "아주엠씨엠(주)",
+    "scale": "건축면적 : 7,150㎡ (2,167PY)",
+    "info": "외장/내장 Panel 시공 / 기초 바닥 공사",
     "workphotos": [
       "articles/factory-001.jpg"
     ]

@@ -1,5 +1,12 @@
 [
   {
+    "title": "LG이노텍 P2동 리모델링 공사",
+    "cover": "articles/renovating-005.jpg",
+    "date": "2023-02-25T16:40:00.000Z",
+    "finished": 2018,
+    "filename": "renovating-005.json"
+  },
+  {
     "title": "LG이노텍 본관동 리모델링 공사",
     "cover": "articles/renovating-001.jpg",
     "date": "2023-03-25T16:40:00.000Z",

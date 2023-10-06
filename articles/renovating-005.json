@@ -1,11 +1,11 @@
 {
   "context": {
-    "title": "SK실트론 복지동 리모델링 공사",
+    "title": "LG이노텍 P2동 리모델링 공사",
     "cover": "articles/renovating-005.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
-    "finished": "2023.02.27. ~ 2023.04.14",
-    "client": "SK실트론",
-    "scale": "건축면적 : 395m2(120PY)",
+    "date": "2023-02-25T16:40:00.000Z",
+    "finished": 2018,
+    "client": "엘지이노텍㈜",
+    "scale": "8,550 (2,591PY)",
     "info": "건축 인테리어",
     "workphotos": [
       "articles/renovating-005.jpg"

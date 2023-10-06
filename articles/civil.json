@@ -1,0 +1,51 @@
+[
+  {
+    "title": "아주MCM 신축공사",
+    "cover": "articles/civil-001.jpg",
+    "date": "2023-02-25T16:40:00.000Z",
+    "finished": "2018.01 ~ 2018.05",
+    "filename": "civil-001.json"
+  },
+  {
+    "title": "LG이노텍1A공장 방재센터 이전공사",
+    "cover": "articles/civil-003.jpg",
+    "date": "2023-02-25T16:50:00.000Z",
+    "finished": "2022.09 ~ 2022.12",
+    "filename": "civil-003.json"
+  },
+  {
+    "title": "구미 1A 공장 방재센터 증축 공사",
+    "cover": "articles/civil-004/001.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2022.09.01. ~ 2023.12.31",
+    "filename": "civil-004.json"
+  },
+  {
+    "title": "구미 1공장 환경동 증축 건축 공사",
+    "cover": "articles/civil-005/001.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2022.12.02. ~ 2023.02.25",
+    "filename": "civil-005.json"
+  },
+  {
+    "title": "SK실트론 3공장 UT동 신축 공사",
+    "cover": "articles/civil-006/001.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2023.01.20. ~ 2023.06.30",
+    "filename": "civil-006.json"
+  },
+  {
+    "title": "삼성SDI 분리막 신축 공사",
+    "cover": "articles/civil-007.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2019년 ~ 2019년",
+    "filename": "civil-007.json"
+  },
+  {
+    "title": "수성구 상가 신축공사",
+    "cover": "articles/civil-002.jpg",
+    "date": "2023-03-25T16:41:00.000Z",
+    "finished": 2018,
+    "filename": "civil-002.json"
+  }
+]

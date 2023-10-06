@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://localhost:3000/civil-002.json</loc>
+    <lastmod>2023-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:3000/civil-004.json</loc>
+    <lastmod>2023-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:3000/civil-005.json</loc>
+    <lastmod>2023-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:3000/civil-006.json</loc>
+    <lastmod>2023-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:3000/civil-007.json</loc>
+    <lastmod>2023-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:3000/cleanroom-003.json</loc>
     <lastmod>2023-03-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -38,30 +68,6 @@
   </url>
   <url>
     <loc>http://localhost:3000/cleanroom-009.json</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:3000/factory-004.json</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:3000/factory-005.json</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:3000/factory-006.json</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:3000/factory-007.json</loc>
     <lastmod>2023-03-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -139,6 +145,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:3000/renovating-013.json</loc>
+    <lastmod>2023-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:3000/renovating-014.json</loc>
+    <lastmod>2023-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:3000/cleanroom-002.json</loc>
     <lastmod>2023-03-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -151,7 +169,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:3000/factory-003.json</loc>
+    <loc>http://localhost:3000/civil-003.json</loc>
+    <lastmod>2023-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:3000/civil-001.json</loc>
     <lastmod>2023-02-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -164,12 +188,6 @@
   </url>
   <url>
     <loc>http://localhost:3000/cleanroom-013.json</loc>
-    <lastmod>2023-02-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:3000/factory-001.json</loc>
     <lastmod>2023-02-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

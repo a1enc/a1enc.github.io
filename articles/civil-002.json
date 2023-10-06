@@ -1,0 +1,15 @@
+{
+  "context": {
+    "title": "수성구 상가 신축공사",
+    "cover": "articles/civil-002.jpg",
+    "date": "2023-03-25T16:41:00.000Z",
+    "finished": 2018,
+    "client": "개인",
+    "scale": "8,550 (2,591PY)",
+    "info": "C/R건축",
+    "workphotos": [
+      "articles/civil-002.jpg"
+    ]
+  },
+  "content": "\n\n1. 공 사 명: title\n1. 발 주 처:\tclient \n1. 공사기간:\tfinished\n1. 공사규모:\tscale\n1. 공사내용: info\n"
+}

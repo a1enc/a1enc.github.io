@@ -54,5 +54,19 @@
     "date": "2023-03-25T16:40:00.000Z",
     "finished": "2023.02.27. ~ 2023.04.14",
     "filename": "renovating-009.json"
+  },
+  {
+    "title": "삼성SDI 분리막 리모델링 공사",
+    "cover": "articles/renovating-013.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2020.07 ~ 2020.10",
+    "filename": "renovating-013.json"
+  },
+  {
+    "title": "노바엠 헬스케어 신축 (전 공정의 40%)",
+    "cover": "articles/renovating-014.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2023.02.27. ~ 2023.04.14",
+    "filename": "renovating-014.json"
   }
 ]

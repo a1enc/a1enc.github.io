@@ -28,7 +28,7 @@
     "filename": "civil-005.json"
   },
   {
-    "title": "SK실트론 3공장 UT동 신축 공사",
+    "title": "실트론 3공장 UT동 신축공사",
     "cover": "articles/civil-006/001.jpg",
     "date": "2023-03-25T16:40:00.000Z",
     "finished": "2023.01.20. ~ 2023.06.30",
@@ -40,6 +40,13 @@
     "date": "2023-03-25T16:40:00.000Z",
     "finished": "2019년 ~ 2019년",
     "filename": "civil-007.json"
+  },
+  {
+    "title": "노바엠 헬스케어 신축",
+    "cover": "articles/civil-008.jpg",
+    "date": "2023-03-25T16:40:00.000Z",
+    "finished": "2023.02.27. ~ 2023.04.14",
+    "filename": "civil-008.json"
   },
   {
     "title": "수성구 상가 신축공사",

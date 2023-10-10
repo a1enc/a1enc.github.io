@@ -1,15 +1,15 @@
 {
   "context": {
-    "title": "노바엠 헬스케어 신축",
-    "cover": "articles/civil-008.jpg",
-    "date": "2020-03-25T16:40:00.000Z",
-    "finished": "2020.02.27. ~ 2020.04.14",
-    "client": "노바엠 헬스케어",
+    "title": "코스파 나대지 조성 토목공사",
+    "cover": "articles/civil-011.jpg",
+    "date": "2021-03-25T16:40:00.000Z",
+    "finished": "2021.02.27. ~ 2021.04.14",
+    "client": "코스파",
     "scale": "건축면적 : 395m2(120PY)",
     "info": "기초 바닥 공사, 외장 및 내장",
-    "displayDate": "2020년",
+    "displayDate": "2021년",
     "workphotos": [
-      "articles/civil-008.jpg"
+      "articles/civil-011.jpg"
     ]
   },
   "content": "\n\n1. 공 사 명: title\n1. 발 주 처:\tclient \n1. 공사기간:\tfinished\n1. 공사규모:\tscale\n1. 공사내용: info\n"

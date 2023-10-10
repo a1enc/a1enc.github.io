@@ -35,11 +35,32 @@
     "filename": "civil-002.json"
   },
   {
+    "title": "코스파 나대지 조성 토목공사",
+    "cover": "articles/civil-011.jpg",
+    "date": "2021-03-25T16:40:00.000Z",
+    "finished": "2021.02.27. ~ 2021.04.14",
+    "filename": "civil-011.json"
+  },
+  {
     "title": "노바엠 헬스케어 신축",
     "cover": "articles/civil-008.jpg",
     "date": "2020-03-25T16:40:00.000Z",
     "finished": "2020.02.27. ~ 2020.04.14",
     "filename": "civil-008.json"
+  },
+  {
+    "title": "동산글로벌 신축",
+    "cover": "articles/civil-010.jpg",
+    "date": "2019-06-25T16:40:00.000Z",
+    "finished": "2019.06.27. ~ 2019.08.14",
+    "filename": "civil-010.json"
+  },
+  {
+    "title": "한주반도체 천안이전 신축",
+    "cover": "articles/civil-009.jpg",
+    "date": "2019-03-25T16:40:00.000Z",
+    "finished": "2019.02.27. ~ 2019.04.14",
+    "filename": "civil-009.json"
   },
   {
     "title": "삼성SDI 분리막 신축 공사",

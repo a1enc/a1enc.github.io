@@ -1,79 +1,79 @@
 [
   {
-    "title": "(주)렉스진바이오텍 3공장",
-    "cover": "articles/cleanroom-012.jpg",
-    "date": "2023-02-25T16:40:00.000Z",
-    "finished": "2018.05 ~ 2019.05",
-    "filename": "cleanroom-012.json"
-  },
-  {
-    "title": "삼성SDI QD-PJT",
-    "cover": "articles/cleanroom-013.jpg",
-    "date": "2023-02-25T16:40:00.000Z",
-    "finished": 2018,
-    "filename": "cleanroom-013.json"
-  },
-  {
-    "title": "삼성SDI㈜ 분리막#3 증축 공사",
-    "cover": "articles/cleanroom-001.jpg",
-    "date": "2023-03-20T16:40:00.000Z",
-    "finished": "2018년",
-    "filename": "cleanroom-001.json"
-  },
-  {
-    "title": "LG이노텍 2공장 B동 C5 Banff FOL 100Zone 공사",
-    "cover": "articles/cleanroom-002.jpg",
-    "date": "2023-03-23T16:40:00.000Z",
-    "finished": "2020 ~ 2021",
-    "filename": "cleanroom-002.json"
-  },
-  {
-    "title": "웅진에너지 대전 공장 C/R 확장공사",
-    "cover": "articles/cleanroom-003.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
-    "finished": "2017.08 ~ 2017.12",
-    "filename": "cleanroom-003.json"
+    "title": "창원 LG전자 신축 (C/R건축)",
+    "cover": "articles/cleanroom-008.jpg",
+    "date": "2022-03-25T16:40:00.000Z",
+    "finished": "2022년 ~ 2022년",
+    "filename": "cleanroom-008.json"
   },
   {
     "title": "DI System 및 C/R 증설공사",
     "cover": "articles/cleanroom-004.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
-    "finished": "2019년 ~ 2019년",
+    "date": "2020-03-25T16:40:00.000Z",
+    "finished": "2019년 ~ 2020년",
     "filename": "cleanroom-004.json"
   },
   {
     "title": "LG이노텍 2공장 D동 C/R 확장공사 (건축)",
     "cover": "articles/cleanroom-005.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
+    "date": "2019-03-25T16:40:00.000Z",
     "finished": "2019년 ~ 2019년",
     "filename": "cleanroom-005.json"
   },
   {
     "title": "삼성SDI DF동 C/R 확장공사 (건축)",
     "cover": "articles/cleanroom-006.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
+    "date": "2019-03-25T16:40:00.000Z",
     "finished": "2019년 ~ 2019년",
     "filename": "cleanroom-006.json"
   },
   {
     "title": "LG이노텍 1공장 B동 C/R 확장공사 (건축)",
     "cover": "articles/cleanroom-007.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
+    "date": "2019-03-25T16:40:00.000Z",
     "finished": "2019년 ~ 2019년",
     "filename": "cleanroom-007.json"
   },
   {
-    "title": "창원 LG전자 신축 (C/R건축)",
-    "cover": "articles/cleanroom-008.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
-    "finished": "2019년 ~ 2019년",
-    "filename": "cleanroom-008.json"
-  },
-  {
     "title": "LG디스플레이 P6동 증축 (C/R 건축)",
     "cover": "articles/cleanroom-009.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
+    "date": "2019-03-25T16:40:00.000Z",
     "finished": "2019년 ~ 2019년",
     "filename": "cleanroom-009.json"
+  },
+  {
+    "title": "LG이노텍 2공장 B동 C5 Banff FOL 100Zone 공사",
+    "cover": "articles/cleanroom-002.jpg",
+    "date": "2019-03-23T16:40:00.000Z",
+    "finished": "2019 ~ 2020",
+    "filename": "cleanroom-002.json"
+  },
+  {
+    "title": "삼성SDI㈜ 분리막#3 증축 공사",
+    "cover": "articles/cleanroom-001.jpg",
+    "date": "2018-03-20T16:40:00.000Z",
+    "finished": "2018년",
+    "filename": "cleanroom-001.json"
+  },
+  {
+    "title": "(주)렉스진바이오텍 3공장",
+    "cover": "articles/cleanroom-012.jpg",
+    "date": "2018-02-25T16:40:00.000Z",
+    "finished": "2018.05 ~ 2019.05",
+    "filename": "cleanroom-012.json"
+  },
+  {
+    "title": "삼성SDI QD-PJT",
+    "cover": "articles/cleanroom-013.jpg",
+    "date": "2018-02-25T16:40:00.000Z",
+    "finished": 2018,
+    "filename": "cleanroom-013.json"
+  },
+  {
+    "title": "웅진에너지 대전 공장 C/R 확장공사",
+    "cover": "articles/cleanroom-003.jpg",
+    "date": "2018-01-25T16:40:00.000Z",
+    "finished": "2017.08 ~ 2017.12",
+    "filename": "cleanroom-003.json"
   }
 ]

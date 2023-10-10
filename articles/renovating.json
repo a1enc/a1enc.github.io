@@ -1,26 +1,5 @@
 [
   {
-    "title": "LG이노텍 P2동 리모델링 공사",
-    "cover": "articles/renovating-005.jpg",
-    "date": "2023-02-25T16:40:00.000Z",
-    "finished": 2018,
-    "filename": "renovating-005.json"
-  },
-  {
-    "title": "LG이노텍 본관동 리모델링 공사",
-    "cover": "articles/renovating-001.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
-    "finished": "2020.07 ~ 2020.10",
-    "filename": "renovating-001.json"
-  },
-  {
-    "title": "LG이노텍 기숙사(성원 129세대, 사내 46세대) 리모델링 공사",
-    "cover": "articles/renovating-002.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
-    "finished": "2021년",
-    "filename": "renovating-002.json"
-  },
-  {
     "title": "SK실트론 3공장 사무동 1층(좌측) 리모델링 공사",
     "cover": "articles/renovating-004/001.jpg",
     "date": "2023-03-25T16:40:00.000Z",
@@ -35,31 +14,52 @@
     "filename": "renovating-006.json"
   },
   {
-    "title": "아주엠씨엠 리모델링 공사",
-    "cover": "articles/renovating-007.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
-    "finished": "2023.02.27. ~ 2023.04.14",
-    "filename": "renovating-007.json"
+    "title": "LG이노텍 기숙사(성원 129세대, 사내 46세대) 리모델링 공사",
+    "cover": "articles/renovating-002.jpg",
+    "date": "2021-03-25T16:40:00.000Z",
+    "finished": "2021년",
+    "filename": "renovating-002.json"
   },
   {
     "title": "LG이노텍 기숙사 리모델링 공사",
     "cover": "articles/renovating-008.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
-    "finished": "2023.02.27. ~ 2023.04.14",
+    "date": "2021-03-25T16:40:00.000Z",
+    "finished": "2021.02.27. ~ 2021.04.14",
     "filename": "renovating-008.json"
   },
   {
     "title": "아주스틸 휴게실 리모델링 공사",
     "cover": "articles/renovating-009.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
-    "finished": "2023.02.27. ~ 2023.04.14",
+    "date": "2021-03-25T16:40:00.000Z",
+    "finished": "2021.02.27. ~ 2021.04.14",
     "filename": "renovating-009.json"
+  },
+  {
+    "title": "LG이노텍 본관동 리모델링 공사",
+    "cover": "articles/renovating-001.jpg",
+    "date": "2020-03-25T16:40:00.000Z",
+    "finished": "2020.07 ~ 2020.10",
+    "filename": "renovating-001.json"
+  },
+  {
+    "title": "아주엠씨엠 리모델링 공사",
+    "cover": "articles/renovating-007.jpg",
+    "date": "2020-03-25T16:40:00.000Z",
+    "finished": "2020.02.27. ~ 2020.04.14",
+    "filename": "renovating-007.json"
   },
   {
     "title": "삼성SDI 분리막 리모델링 공사",
     "cover": "articles/renovating-013.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
+    "date": "2020-03-25T16:40:00.000Z",
     "finished": "2020.07 ~ 2020.10",
     "filename": "renovating-013.json"
+  },
+  {
+    "title": "LG이노텍 P2동 리모델링 공사",
+    "cover": "articles/renovating-005.jpg",
+    "date": "2019-02-25T16:40:00.000Z",
+    "finished": "2019-2019",
+    "filename": "renovating-005.json"
   }
 ]

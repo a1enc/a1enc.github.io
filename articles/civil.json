@@ -1,26 +1,5 @@
 [
   {
-    "title": "아주MCM 신축공사",
-    "cover": "articles/civil-001.jpg",
-    "date": "2023-02-25T16:40:00.000Z",
-    "finished": "2018.01 ~ 2018.05",
-    "filename": "civil-001.json"
-  },
-  {
-    "title": "LG이노텍1A공장 방재센터 이전공사",
-    "cover": "articles/civil-003.jpg",
-    "date": "2023-02-25T16:50:00.000Z",
-    "finished": "2022.09 ~ 2022.12",
-    "filename": "civil-003.json"
-  },
-  {
-    "title": "구미 1A 공장 방재센터 증축 공사",
-    "cover": "articles/civil-004/001.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
-    "finished": "2022.09.01. ~ 2023.12.31",
-    "filename": "civil-004.json"
-  },
-  {
     "title": "구미 1공장 환경동 증축 건축 공사",
     "cover": "articles/civil-005/001.jpg",
     "date": "2023-03-25T16:40:00.000Z",
@@ -35,24 +14,45 @@
     "filename": "civil-006.json"
   },
   {
-    "title": "삼성SDI 분리막 신축 공사",
-    "cover": "articles/civil-007.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
-    "finished": "2019년 ~ 2019년",
-    "filename": "civil-007.json"
+    "title": "구미 1A 공장 방재센터 증축 공사",
+    "cover": "articles/civil-004/001.jpg",
+    "date": "2022-03-25T16:40:00.000Z",
+    "finished": "2022.09.01. ~ 2023.12.31",
+    "filename": "civil-004.json"
   },
   {
-    "title": "노바엠 헬스케어 신축",
-    "cover": "articles/civil-008.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
-    "finished": "2023.02.27. ~ 2023.04.14",
-    "filename": "civil-008.json"
+    "title": "LG이노텍1A공장 방재센터 이전공사",
+    "cover": "articles/civil-003.jpg",
+    "date": "2022-02-25T16:50:00.000Z",
+    "finished": "2022.09 ~ 2022.12",
+    "filename": "civil-003.json"
   },
   {
     "title": "수성구 상가 신축공사",
     "cover": "articles/civil-002.jpg",
-    "date": "2023-03-25T16:41:00.000Z",
-    "finished": 2023,
+    "date": "2021-03-25T16:41:00.000Z",
+    "finished": 2021,
     "filename": "civil-002.json"
+  },
+  {
+    "title": "노바엠 헬스케어 신축",
+    "cover": "articles/civil-008.jpg",
+    "date": "2020-03-25T16:40:00.000Z",
+    "finished": "2020.02.27. ~ 2020.04.14",
+    "filename": "civil-008.json"
+  },
+  {
+    "title": "삼성SDI 분리막 신축 공사",
+    "cover": "articles/civil-007.jpg",
+    "date": "2018-03-25T16:40:00.000Z",
+    "finished": "2018년 ~ 2019년",
+    "filename": "civil-007.json"
+  },
+  {
+    "title": "아주MCM 신축공사",
+    "cover": "articles/civil-001.jpg",
+    "date": "2018-02-25T16:40:00.000Z",
+    "finished": "2018.01 ~ 2018.05",
+    "filename": "civil-001.json"
   }
 ]

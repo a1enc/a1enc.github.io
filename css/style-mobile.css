@@ -1247,7 +1247,7 @@
 .mobile .customer.report .policy_wrap p {
   margin-top: 7px;
 }
-.company .licenses_wrap {margin-top:7rem;    max-width: 1200px;  margin: 0 auto;  width: 90%; }
+.company .licenses_wrap {margin-top:7rem;    max-width: 1200px;  margin: 0 auto;  width: 100%; }
 .company .licenses_wrap ul{display:flex; flex-wrap:wrap;}
 .company .licenses_wrap ul li{width:23.5%;  margin-right:2%; margin-bottom:30px;}
 .company .licenses_wrap ul li p{padding:10px; text-align:center; color:#333; font-weight:500; font-size:18px;}

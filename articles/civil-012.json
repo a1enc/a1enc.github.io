@@ -1,0 +1,16 @@
+{
+  "context": {
+    "title": "ISTMC(환경에너지솔루션)",
+    "cover": "articles/civil-012.jpg",
+    "date": "2023-07-25T16:40:00.000Z",
+    "finished": "2023.07. ~ 2024.05",
+    "client": "ISTMC",
+    "scale": "건축면적 : 900m2(809PY)",
+    "info": "토목,건축 공사",
+    "displayDate": "2024년",
+    "workphotos": [
+      "articles/civil-012.jpg"
+    ]
+  },
+  "content": "\n\n1. 공 사 명: title\n1. 발 주 처:\tclient \n1. 공사기간:\tfinished\n1. 공사규모:\tscale\n1. 공사내용: info\n"
+}

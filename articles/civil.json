@@ -1,7 +1,7 @@
 [
   {
     "title": "예산 로드에프 신축공사 (토목,건축)",
-    "cover": "articles/civil-014.jpg",
+    "cover": "articles/civil-014/001.jpg",
     "date": "2024-04-25T16:40:00.000Z",
     "finished": "2024.04 ~ 2024.12",
     "filename": "civil-014.json"
@@ -15,7 +15,7 @@
   },
   {
     "title": "ISTMC(환경에너지솔루션)",
-    "cover": "articles/civil-012.jpg",
+    "cover": "articles/civil-012/001.jpg",
     "date": "2023-07-25T16:40:00.000Z",
     "finished": "2023.07. ~ 2024.05",
     "filename": "civil-012.json"

@@ -1,7 +1,7 @@
 {
   "context": {
     "title": "예산 로드에프 신축공사 (토목,건축)",
-    "cover": "articles/civil-014.jpg",
+    "cover": "articles/civil-014/001.jpg",
     "date": "2024-04-25T16:40:00.000Z",
     "finished": "2024.04 ~ 2024.12",
     "client": "㈜로드에프",
@@ -9,7 +9,8 @@
     "info": "토목, 건축 공사",
     "displayDate": "2024년",
     "workphotos": [
-      "articles/civil-014.jpg"
+      "articles/civil-014/001.jpg",
+      "articles/civil-014/002.jpg"
     ]
   },
   "content": "\n\n1. 공 사 명: title\n1. 발 주 처:\tclient \n1. 공사기간:\tfinished\n1. 공사규모:\tscale\n1. 공사내용: info\n"

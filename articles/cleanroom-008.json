@@ -1,14 +1,15 @@
 {
   "context": {
     "title": "창원 LG전자 신축 (C/R건축)",
-    "cover": "articles/cleanroom-008.jpg",
+    "cover": "articles/cleanroom-008/001.jpg",
     "date": "2022-03-25T16:40:00.000Z",
     "finished": "2022년 ~ 2022년",
     "client": "창원 LG전자",
     "scale": "건축면적 : 1,485㎡ (450PY) Class 10 & 100",
     "info": "C/R 건축",
     "workphotos": [
-      "articles/cleanroom-008.jpg"
+      "articles/cleanroom-008/001.jpg",
+      "articles/cleanroom-008/002.jpg"
     ]
   },
   "content": "\n\n1. 공 사 명: title\n1. 발 주 처:\tclient \n1. 공사기간:\tfinished\n1. 공사규모:\tscale\n1. 공사내용: info\n"

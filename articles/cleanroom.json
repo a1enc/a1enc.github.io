@@ -1,7 +1,7 @@
 [
   {
     "title": "창원 LG전자 신축 (C/R건축)",
-    "cover": "articles/cleanroom-008.jpg",
+    "cover": "articles/cleanroom-008/001.jpg",
     "date": "2022-03-25T16:40:00.000Z",
     "finished": "2022년 ~ 2022년",
     "filename": "cleanroom-008.json"
@@ -22,14 +22,14 @@
   },
   {
     "title": "삼성SDI DF동 C/R 확장공사 (건축)",
-    "cover": "articles/cleanroom-006.jpg",
+    "cover": "articles/cleanroom-006/001.jpg",
     "date": "2019-03-25T16:40:00.000Z",
     "finished": "2019년 ~ 2019년",
     "filename": "cleanroom-006.json"
   },
   {
     "title": "LG이노텍 1공장 B동 C/R 확장공사 (건축)",
-    "cover": "articles/cleanroom-007.jpg",
+    "cover": "articles/cleanroom-007/001.jpg",
     "date": "2019-03-25T16:40:00.000Z",
     "finished": "2019년 ~ 2019년",
     "filename": "cleanroom-007.json"

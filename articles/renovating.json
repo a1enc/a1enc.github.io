@@ -2,16 +2,23 @@
   {
     "title": "SK실트론 3공장 사무동 1층(좌측) 리모델링 공사",
     "cover": "articles/renovating-004/001.jpg",
-    "date": "2023-03-25T16:40:00.000Z",
-    "finished": "2023.02.27. ~ 2023.04.14",
+    "date": "2024-03-25T16:40:00.000Z",
+    "finished": "2024년 ~ 2024년",
     "filename": "renovating-004.json"
   },
   {
     "title": "LG이노텍 휴게실 리모델링 공사",
     "cover": "articles/renovating-006.jpg",
+    "date": "2024-03-25T16:40:00.000Z",
+    "finished": "2024.02.27. ~ 2024.04.14",
+    "filename": "renovating-006.json"
+  },
+  {
+    "title": "아주엠씨엠 리모델링 공사",
+    "cover": "articles/renovating-007.jpg",
     "date": "2023-03-25T16:40:00.000Z",
     "finished": "2023.02.27. ~ 2023.04.14",
-    "filename": "renovating-006.json"
+    "filename": "renovating-007.json"
   },
   {
     "title": "LG이노텍 기숙사(성원 129세대, 사내 46세대) 리모델링 공사",
@@ -40,13 +47,6 @@
     "date": "2020-03-25T16:40:00.000Z",
     "finished": "2020.07 ~ 2020.10",
     "filename": "renovating-001.json"
-  },
-  {
-    "title": "아주엠씨엠 리모델링 공사",
-    "cover": "articles/renovating-007.jpg",
-    "date": "2020-03-25T16:40:00.000Z",
-    "finished": "2020.02.27. ~ 2020.04.14",
-    "filename": "renovating-007.json"
   },
   {
     "title": "삼성SDI 분리막 리모델링 공사",

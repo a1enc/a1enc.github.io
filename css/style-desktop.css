@@ -1336,7 +1336,7 @@
 
 .modal-container.gallery .modal__header img {
   width: 100%;
-  max-height: 450px;
+  height: 450px;
   object-fit: cover;
   border-radius: 5px;
 }

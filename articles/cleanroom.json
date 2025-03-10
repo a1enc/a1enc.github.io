@@ -1,24 +1,38 @@
 [
   {
-    "title": "창원 LG전자 신축 (C/R건축)",
-    "cover": "articles/cleanroom-008/001.jpg",
-    "date": "2022-03-25T16:40:00.000Z",
-    "finished": "2022년 ~ 2022년",
-    "filename": "cleanroom-008.json"
-  },
-  {
     "title": "DI System 및 C/R 증설공사",
     "cover": "articles/cleanroom-004.jpg",
-    "date": "2020-03-25T16:40:00.000Z",
-    "finished": "2019년 ~ 2020년",
+    "date": "2024-03-25T16:40:00.000Z",
+    "finished": "2024년 ~ 2024년",
     "filename": "cleanroom-004.json"
   },
   {
     "title": "LG이노텍 2공장 D동 C/R 확장공사 (건축)",
     "cover": "articles/cleanroom-005.jpg",
-    "date": "2019-03-25T16:40:00.000Z",
-    "finished": "2019년 ~ 2019년",
+    "date": "2024-03-25T16:40:00.000Z",
+    "finished": "2024년 ~ 2024년",
     "filename": "cleanroom-005.json"
+  },
+  {
+    "title": "LG이노텍 2공장 B동 C5 Banff FOL 100Zone 공사",
+    "cover": "articles/cleanroom-002.jpg",
+    "date": "2023-03-23T16:40:00.000Z",
+    "finished": "2023년 ~ 2023년",
+    "filename": "cleanroom-002.json"
+  },
+  {
+    "title": "LG이노텍 1공장 B동 C/R 확장공사 (건축)",
+    "cover": "articles/cleanroom-007/001.jpg",
+    "date": "2022-03-25T16:40:00.000Z",
+    "finished": "2022년 ~ 2022년",
+    "filename": "cleanroom-007.json"
+  },
+  {
+    "title": "창원 LG전자 클린룸 신축 (C/R건축)",
+    "cover": "articles/cleanroom-008/001.jpg",
+    "date": "2022-03-25T16:40:00.000Z",
+    "finished": "2022년 ~ 2022년",
+    "filename": "cleanroom-008.json"
   },
   {
     "title": "삼성SDI DF동 C/R 확장공사 (건축)",
@@ -28,25 +42,11 @@
     "filename": "cleanroom-006.json"
   },
   {
-    "title": "LG이노텍 1공장 B동 C/R 확장공사 (건축)",
-    "cover": "articles/cleanroom-007/001.jpg",
-    "date": "2019-03-25T16:40:00.000Z",
-    "finished": "2019년 ~ 2019년",
-    "filename": "cleanroom-007.json"
-  },
-  {
     "title": "LG디스플레이 P6동 증축 (C/R 건축)",
     "cover": "articles/cleanroom-009.jpg",
     "date": "2019-03-25T16:40:00.000Z",
     "finished": "2019년 ~ 2019년",
     "filename": "cleanroom-009.json"
-  },
-  {
-    "title": "LG이노텍 2공장 B동 C5 Banff FOL 100Zone 공사",
-    "cover": "articles/cleanroom-002.jpg",
-    "date": "2019-03-23T16:40:00.000Z",
-    "finished": "2019 ~ 2020",
-    "filename": "cleanroom-002.json"
   },
   {
     "title": "삼성SDI㈜ 분리막#3 증축 공사",

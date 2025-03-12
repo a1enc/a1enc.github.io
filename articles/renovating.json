@@ -1,5 +1,19 @@
 [
   {
+    "title": "SK실트론 기숙사 리모델링 공사",
+    "cover": "articles/renovating-017/001.jpg",
+    "date": "2024-11-25T16:40:00.000Z",
+    "finished": "2024.07 ~ 2024.11",
+    "filename": "renovating-017.json"
+  },
+  {
+    "title": "루셈기숙사 리모델링 공사",
+    "cover": "articles/renovating-016/001.jpg",
+    "date": "2024-08-25T16:40:00.000Z",
+    "finished": "2024.07 ~ 2024.08",
+    "filename": "renovating-016.json"
+  },
+  {
     "title": "SK실트론 3공장 사무동 1층(좌측) 리모델링 공사",
     "cover": "articles/renovating-004/001.jpg",
     "date": "2024-03-25T16:40:00.000Z",

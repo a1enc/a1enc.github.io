@@ -1,0 +1,19 @@
+{
+  "context": {
+    "title": "상상바이오 공장 신축공사 (토목,건축)",
+    "cover": "articles/civil-015/001.jpg",
+    "date": "2025-03-25T16:40:00.000Z",
+    "finished": "2024.09 ~ 2025.03",
+    "client": "상상바이오",
+    "scale": "토목 : 9500㎡ (2880PY)/건축: 4300㎡ (1300PY)",
+    "info": "토목, 건축 공사",
+    "displayDate": "2025년",
+    "workphotos": [
+      "articles/civil-015/001.jpg",
+      "articles/civil-015/002.jpg",
+      "articles/civil-015/003.jpg",
+      "articles/civil-015/004.jpg"
+    ]
+  },
+  "content": "\n\n1. 공 사 명: title\n1. 발 주 처:\tclient \n1. 공사기간:\tfinished\n1. 공사규모:\tscale\n1. 공사내용: info\n"
+}

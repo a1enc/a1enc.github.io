@@ -8,6 +8,10 @@
   padding: 210px 0 170px;
 }
 
+.desktop .container.notice {
+  padding: 210px 0 60px;
+}
+
 #container.wrapper {
   min-height: calc(100vh - 200px);
 }
@@ -1418,6 +1422,11 @@
 .notice_detail .content {
   padding: 20px 35px 40px;
   line-height: 1.6;
+}
+.notice_detail .content img {
+  max-width: 100%;
+  vertical-align: middle;
+  object-fit: cover;
 }
 .notice .btn_wrap {
   text-align: center;

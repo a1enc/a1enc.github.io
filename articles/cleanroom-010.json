@@ -1,0 +1,17 @@
+{
+  "context": {
+    "title": "상상바이오 공장 클린룸 조성공사",
+    "cover": "articles/cleanroom-010/001.jpg",
+    "date": "2025-04-25T07:40:00.000Z",
+    "finished": "2024.12 ~ 2025.04",
+    "client": "상상바이오",
+    "scale": "1700㎡(516py)",
+    "info": "C/R 건축",
+    "workphotos": [
+      "articles/cleanroom-010/001.jpg",
+      "articles/cleanroom-010/002.jpg",
+      "articles/cleanroom-010/003.jpg"
+    ]
+  },
+  "content": "\n\n1. 공 사 명: title\n1. 발 주 처:\tclient \n1. 공사기간:\tfinished\n1. 공사규모:\tscale\n1. 공사내용: info\n"
+}

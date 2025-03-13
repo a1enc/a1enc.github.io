@@ -1,0 +1,19 @@
+{
+  "context": {
+    "title": "LIG넥스원 김천공장 H2저장고 및 50GL 믹스동 증축공사",
+    "cover": "articles/civil-016/001.jpg",
+    "date": "2025-03-29T07:40:00.000Z",
+    "finished": "2024.07 ~ 2025.03",
+    "client": "LIG넥스원",
+    "scale": "토목 :  2500㎡(758py)/건축: 1400㎡(426py)",
+    "info": "토목, 건축 공사",
+    "displayDate": "2025년",
+    "workphotos": [
+      "articles/civil-016/001.jpg",
+      "articles/civil-016/002.jpg",
+      "articles/civil-016/003.jpg",
+      "articles/civil-016/004.jpg"
+    ]
+  },
+  "content": "\n\n1. 공 사 명: title\n1. 발 주 처:\tclient \n1. 공사기간:\tfinished\n1. 공사규모:\tscale\n1. 공사내용: info\n"
+}
